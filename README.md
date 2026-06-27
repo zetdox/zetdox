@@ -1,12 +1,10 @@
 ## zetdox (zetoxcz)
 
-Начинающий разработчик на C/C++. Интересуюсь системным программированием, реверс-инжинирингом
-
-**Проекты:**
+**Projects:**
 - [C++]  ::     DLL Injector
 - [C]    ::     PE Binder
 
-**Другое:**
+**Other:**
 - [Python]  ::     AI Telegram Bot
 - [GLua]    ::     Garrys Mod Custom Hud
 
