@@ -3,6 +3,7 @@
 **Projects:**
 - [C++]  ::     DLL Injector
 - [C]    ::     PE Binder
+- [C]    ::     Simple Hash (string-to-sha256)
 
 
   
